@@ -1,0 +1,15 @@
+com\mycompany\parser\CommandWords.class
+com\mycompany\items\Enemy.class
+com\mycompany\items\HealthPotion.class
+com\mycompany\parser\Command.class
+com\mycompany\parser\Parser.class
+com\mycompany\game\Game.class
+com\mycompany\game\File.class
+com\mycompany\items\Knife.class
+com\mycompany\game\Main.class
+com\mycompany\items\Shovel.class
+com\mycompany\items\Book.class
+com\mycompany\type\Player.class
+com\mycompany\type\Room.class
+com\mycompany\items\Item.class
+com\mycompany\type\Inventory.class

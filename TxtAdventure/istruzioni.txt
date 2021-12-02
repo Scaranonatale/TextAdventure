@@ -1,0 +1,58 @@
+UNIVERSITY NIGHTMARE
+
+Scritta da Natale Scarano, Martino Putignano.
+Puoi consultare le istruzioni in ogni momento durante il gioco.
+
+----------------------------------------
+1: Introduzione
+2: Interazione con il mondo e comandi
+----------------------------------------
+
+1: Introduzione
+
+Benvenuti nell' avventura.
+Nei prossimi minuti, ti imbarcherai in un viaggio misterioso per sfuggire al
+paesaggio in cui ti sei inspiegabilmente svegliato. Lo strumento migliore che hai con te e' il potere dell'esplorazione.
+Al fine di fuggire, dovrai esplorare l'ambiente circostante, incontrando una varietà di oggetti lungo
+la via.
+
+Interazione con il mondo e comandi
+
+I comandi che andrai ad utilizzare non sono CaseSensitive ma sono dotati di sinonimi che puoi utilittare(ES. "esamina" al posto di "guarda").
+
+GUARDA
+Ci sono molti modi in cui puoi interagire con il mondo che ti circonda. Una delle prime cose che potresti voler fare e'
+avere un'idea migliore di cio' che ti circonda. Per fare cio', puoi usare il comando 'guarda'. Questo restituira' una descrizione
+della stanza in cui ti trovi, cosi' come le possibili direzioni dove ti puoi spostare e tutti gli elementi presenti nella stanza in quel momento.
+Per eseguire questo comando, e' sufficiente digitare 'guarda' nella console quando viene data l'opportunita'.
+
+MOVIMENTI
+La prossima cosa che dovrai fare per scappare e' muoverti. Lo spostamento e' abbastanza semplice.
+Puoi spostarti nella direzione desiderata dalla stanza in cui ti trovi attualmente. Queste informazioni sono disponibili
+guardando la stanza (GUARDA). Per spostarti, digita 'go/vai/muoviti' nella riga di comando, seguito da
+la direzione desiderata (in termini di nord, sud, est, ovest,sopra,sotto). 
+Se ti sei trasferito correttamente, verra' stampata una descrizione della nuova stanza in cui ti trovi sulla console.
+
+PRENDERE
+Gli oggetti sono un aspetto importante. Un modo per interagire con loro e' prenderli. Se ti trovi dentro
+una stanza che ha un oggetto, puoi inserire 'prendi' seguito dal nome dell'oggetto, per aggiungere quell'oggetto al tuo
+inventario.
+
+FAR CADERE
+Oltre a prendere oggetti, puoi anche lasciarli cadere. Per eliminare un oggetto dal tuo inventario, digita semplicemente il comando
+'lascia', seguito dal nome dell'articolo che desideri eliminare.
+
+INVENTARIO
+Per tener traccia dei tuoi oggetti raccolti,puoi consultare l'inventario degli oggetti.
+Quando raccogli un oggetto viene automaticamente inserito nell'inventario, quando lo lasci verra' tolto da esso.
+
+SALUTE
+Per tenere traccia dei tuoi punti vita, digita 'salute', cosi' facendo monitorerai la tua salute.
+Puoi guadagnare punti vita con la pozione.
+ATTENZIONE
+Ricorda che la tua mano insanguinata ti fara' perdere 1 punto vita ogni qual volta entrerai in una stanza!!
+
+STORICO
+Nel menu' iniziale digitando 2, viene stampato lo storico, ovvero le vecchie partite terminate(stampa nome e salute con 
+la quale termina la partita).
+Lo storico viene riempito solo se il giocatore termina la partita.
